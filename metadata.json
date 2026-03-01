@@ -1,0 +1,5 @@
+{
+  "name": "MaryMake",
+  "description": "Beleza ao Domicílio em Luanda",
+  "requestFramePermissions": ["camera"]
+}
